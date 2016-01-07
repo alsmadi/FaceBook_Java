@@ -1,0 +1,1 @@
+{"id":"248","first_name":"Russell","last_name":"Krupen","link":"https:\/\/www.facebook.com\/app_scoped_user_id\/248\/","name":"Russell Krupen","updated_time":"2015-06-05T02:27:11+0000"}

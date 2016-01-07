@@ -1,0 +1,1 @@
+{"id":"1051964520","birthday":"11\/11","first_name":"Alaa","gender":"male","last_name":"Kanaan","link":"https:\/\/www.facebook.com\/app_scoped_user_id\/1051964520\/","location":{"id":"101889283186681","name":"Amman, Jordan"},"locale":"en_US","name":"Alaa Kanaan","updated_time":"2016-01-04T23:11:46+0000"}

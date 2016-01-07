@@ -1,0 +1,1 @@
+{"id":"100001760403367","first_name":"Yuriy","gender":"male","last_name":"Mikhaylovskiy","link":"https:\/\/www.facebook.com\/app_scoped_user_id\/100001760403367\/","location":{"id":"110577678964546","name":"Khmelnytskyy, Ukraine"},"locale":"ru_RU","name":"Yuriy Mikhaylovskiy","updated_time":"2016-01-06T18:31:58+0000"}
